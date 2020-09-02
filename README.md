@@ -6,6 +6,3 @@ Ejemplos de código utilizados en la clase de taller de lenguajes 1 correspodien
 ### Docentes 
 Javier Graña   
 Sergio Luis Guardia  
-### Auxiliares  
-Nahuel Gomez  
-Juan Fuensalida  
