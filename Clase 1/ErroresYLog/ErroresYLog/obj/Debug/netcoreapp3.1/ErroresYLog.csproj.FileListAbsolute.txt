@@ -1,0 +1,13 @@
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\bin\Debug\netcoreapp3.1\ErroresYLog.exe
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\bin\Debug\netcoreapp3.1\ErroresYLog.deps.json
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\bin\Debug\netcoreapp3.1\ErroresYLog.runtimeconfig.json
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\bin\Debug\netcoreapp3.1\ErroresYLog.runtimeconfig.dev.json
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\bin\Debug\netcoreapp3.1\ErroresYLog.dll
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\bin\Debug\netcoreapp3.1\ErroresYLog.pdb
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\obj\Debug\netcoreapp3.1\ErroresYLog.csprojAssemblyReference.cache
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\obj\Debug\netcoreapp3.1\ErroresYLog.AssemblyInfoInputs.cache
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\obj\Debug\netcoreapp3.1\ErroresYLog.AssemblyInfo.cs
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\obj\Debug\netcoreapp3.1\ErroresYLog.csproj.CoreCompileInputs.cache
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\obj\Debug\netcoreapp3.1\ErroresYLog.dll
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\obj\Debug\netcoreapp3.1\ErroresYLog.pdb
+C:\Repositorio\git\Taller de Leguajes 2\2020\Clase 1\ErroresYLog\ErroresYLog\obj\Debug\netcoreapp3.1\ErroresYLog.genruntimeconfig.cache
